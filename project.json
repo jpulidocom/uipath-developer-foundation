@@ -3,6 +3,7 @@
   "description": "UiPath RPA Developer Foundation Training",
   "main": "Main.xaml",
   "dependencies": {
+    "UiPath.Credentials.Activities": "[1.1.6479.13204]",
     "UiPath.Excel.Activities": "[2.8.3-beta.867639]",
     "UiPath.Mail.Activities": "[1.8.3-beta.865074]",
     "UiPath.System.Activities": "[20.4.0-beta.864462]",
